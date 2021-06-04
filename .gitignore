@@ -1,0 +1,8 @@
+eboot/
+eboot.bin
+eboot_safe.bin
+eboot_unsafe.bin
+*.vpk
+param.sfo
+.vagrant/
+.DS_Store
