@@ -7,6 +7,8 @@ LPP-Vita-Boilerplate is a Vagrant-based boilerplate to jumpstart your [Lua Playe
 azure-pipelines of [lpp-vita by @Rinnegatamante](https://github.com/Rinnegatamante/lpp-vita/blob/master/azure-pipelines.yml)
 and dockerfile of [vitasdk-docker by @gnuton](https://github.com/gnuton/vitasdk-docker/blob/master/Dockerfile)
 
+By default, the application will run [GUI sample of lpp-vita](https://github.com/Rinnegatamante/lpp-vita/blob/master/samples/Gui/index.lua).
+
 ## Getting started
 
 1. Download and install [Vagrant](https://www.vagrantup.com/downloads)
